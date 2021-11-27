@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F77F1A&width=500&lines=%E4%B8%8D%E7%A7%AF%E8%B7%AC%E6%AD%A5%EF%BC%8C%E6%97%A0%E4%BB%A5%E8%87%B3%E5%8D%83%E9%87%8C%EF%BC%9B%E4%B8%8D%E7%A7%AF%E5%B0%8F%E6%B5%81%EF%BC%8C%E6%97%A0%E4%BB%A5%E6%88%90%E6%B1%9F%E6%B5%B7)](https://git.io/typing-svg)
+<center>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F77F1A&width=500&lines=%E4%B8%8D%E7%A7%AF%E8%B7%AC%E6%AD%A5%EF%BC%8C%E6%97%A0%E4%BB%A5%E8%87%B3%E5%8D%83%E9%87%8C%EF%BC%9B%E4%B8%8D%E7%A7%AF%E5%B0%8F%E6%B5%81%EF%BC%8C%E6%97%A0%E4%BB%A5%E6%88%90%E6%B1%9F%E6%B5%B7)](https://git.io/typing-svg)</center>
 
 <!--
 **AustinWilliam117/AustinWilliam117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
